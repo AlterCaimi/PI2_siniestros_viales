@@ -101,7 +101,7 @@ En base a los análisis realizados, podemos enumerar las siguientes conclusiones
 ### Distribución por comunas y tipo de calle:
 
 - Las comunas 1, 4 y 9 son las que tienen más accidentes de tránsito.
-- Las comunas 2, 3 y 5 tienen una proporción más alta de mujeres en los accidentes.
+- Las comunas 3 y 13 tienen una proporción más alta de mujeres en los accidentes.
 - Las avenidas son el tipo de calle con más accidentes.
 
 ### Distribución por género y tipo de vehículo:

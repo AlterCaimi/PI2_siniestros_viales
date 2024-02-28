@@ -30,6 +30,11 @@ El rol a desarrollar es de analista de datos al servicio del Observatorio de Mov
 [ETL](ETL.ipynb): Notebook con transformaciones a archivos para limpieza y posterior análisis.<br>
 [Notas](NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf): Diccionario de datos y aclaraciones.<br>
 
+Herramientas utilizadas: <br>
+- Python (Pandas/Matplotlib/Seaborn/Sklearn/Numpy/Scipy)
+- MySQL Workbench
+- PowerBI
+<br>
 ## Fuentes de datos
 El Observatorio de Movilidad y Seguridad Vial (OMSV), que se encuentra bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, nos provee un dataset ([click aquí](https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/victimas-siniestros-viales/homicidios.xlsx)) en formato excel con las siguientes hojas:<br>
 

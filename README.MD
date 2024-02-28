@@ -35,6 +35,7 @@ Herramientas utilizadas: <br>
 - MySQL Workbench
 - PowerBI
 <br>
+
 ## Fuentes de datos
 El Observatorio de Movilidad y Seguridad Vial (OMSV), que se encuentra bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, nos provee un dataset ([click aquí](https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/victimas-siniestros-viales/homicidios.xlsx)) en formato excel con las siguientes hojas:<br>
 

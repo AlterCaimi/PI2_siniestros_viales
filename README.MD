@@ -94,7 +94,7 @@ En base a los análisis realizados, podemos enumerar las siguientes conclusiones
 
 ### Tendencias por día de la semana y franja horaria:
 
-- Los fines de semana, especialmente los sábados, son los días con mayor cantidad de accidentes.
+- Los lunes son los días con mayor cantidad de accidentes, seguido de los sábados.
 - Sin embargo, en mujeres, los días con más muertes son miércoles y viernes.
 - La mayoría de los accidentes ocurren en la franja horaria de la mañana, con un máximo alrededor de las 6/7 am, aunque en mujeres el máximo es a las 9/10 am.
 
